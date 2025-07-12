@@ -1,0 +1,24 @@
+2025-04-23 09:55:04,152 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-23 09:55:04,152 - [33mPress CTRL+C to quit[0m
+2025-04-23 09:55:52,635 - 127.0.0.1 - - [23/Apr/2025 09:55:52] "GET / HTTP/1.1" 200 -
+2025-04-23 09:55:53,031 - 127.0.0.1 - - [23/Apr/2025 09:55:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-23 09:56:47,249 - 127.0.0.1 - - [23/Apr/2025 09:56:47] "POST / HTTP/1.1" 200 -
+2025-04-23 09:56:47,280 - 127.0.0.1 - - [23/Apr/2025 09:56:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-23 09:56:58,070 - 127.0.0.1 - - [23/Apr/2025 09:56:58] "GET / HTTP/1.1" 200 -
+2025-04-23 09:56:58,107 - 127.0.0.1 - - [23/Apr/2025 09:56:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-23 10:01:07,106 - 127.0.0.1 - - [23/Apr/2025 10:01:07] "GET /test_model HTTP/1.1" 200 -
+2025-04-24 07:37:38 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-24 07:37:38 - [33mPress CTRL+C to quit[0m
+2025-04-24 07:38:37 - 127.0.0.1 - - [24/Apr/2025 07:38:37] "GET / HTTP/1.1" 200 -
+2025-04-24 07:38:40 - 127.0.0.1 - - [24/Apr/2025 07:38:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-24 07:38:40 - 127.0.0.1 - - [24/Apr/2025 07:38:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-24 07:39:03 - 127.0.0.1 - - [24/Apr/2025 07:39:03] "GET /test_model HTTP/1.1" 200 -
+2025-04-24 12:18:49 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-24 12:18:49 - [33mPress CTRL+C to quit[0m
+2025-04-24 12:19:15 - 127.0.0.1 - - [24/Apr/2025 12:19:15] "GET /test_model HTTP/1.1" 200 -
+2025-04-26 10:07:37 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-26 10:07:37 - [33mPress CTRL+C to quit[0m

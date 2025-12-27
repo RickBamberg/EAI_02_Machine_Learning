@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+plotly
+xgboost
+jupyter
+notebook
+ipykernel
+
+# Adicione versões específicas se desejar, por exemplo:
+# pandas==1.5.3
+# scikit-learn==1.2.2
